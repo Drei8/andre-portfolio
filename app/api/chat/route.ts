@@ -12,11 +12,11 @@ type ModelEntry =
 
 // Fallback sequence: best quality first, safety net last
 const MODEL_FALLBACK: ModelEntry[] = [
-  { provider: "gemini", model: "gemini-2.5-flash" },               // best quality,  20 RPD
+  { provider: "gemini", model: "gemini-2.5-flash" },               // best quality,   20 RPD
   { provider: "groq",   model: "llama-3.3-70b-versatile" },        // excellent,  ~1440 RPD
-  { provider: "gemini", model: "gemini-3-flash-preview" },          // good,          20 RPD
-  { provider: "gemini", model: "gemini-2.5-flash-lite" },           // decent,        20 RPD
-  { provider: "gemini", model: "gemini-3.1-flash-lite-preview" },   // safety net,   500 RPD
+  { provider: "gemini", model: "gemini-3-flash-preview" },          // good,           20 RPD
+  { provider: "gemini", model: "gemini-2.5-flash-lite" },           // decent,         20 RPD
+  { provider: "gemini", model: "gemini-3.1-flash-lite-preview" },   // safety net,    500 RPD
 ];
 
 // In-memory response cache (resets on cold start, fine for a portfolio chatbot)
