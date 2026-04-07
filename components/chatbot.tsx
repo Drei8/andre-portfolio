@@ -58,7 +58,7 @@ export function Chatbot() {
         body: JSON.stringify({ messages: next }),
       });
       const data = await res.json();
-      setMessages([...next, { role: "assistant", content: data.message || "Sorry, I'm having trouble connecting right now. Please try again later." }]);
+      setMessages([...next, { role: "assistant", content: data.error || data.message || "Sorry, I'm having trouble connecting right now. Please try again later." }]);
     } catch {
       setMessages([...next, { role: "assistant", content: "Sorry, I couldn't connect. Please try again." }]);
     } finally {
