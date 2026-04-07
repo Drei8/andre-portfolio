@@ -7,7 +7,7 @@ export const portfolioData = {
   linkedin: "https://www.linkedin.com/in/andre-jhon-a-413aafaf21/",
   github: "https://github.com/Drei8",
 
-  about: `Entry-level Software Engineer and Computer Engineer with hands-on experience in full-stack web development using ASP.NET MVC, C#, SQL Server, JavaScript, Typescriptand React. Passionate about debugging, troubleshooting, and building innovative solutions that push technological boundaries.
+  about: `Entry-level Software Engineer and Computer Engineer with hands-on experience in full-stack web development using ASP.NET MVC, C#, SQL Server, JavaScript, TypeScript and React. Passionate about debugging, troubleshooting, and building innovative solutions that push technological boundaries.
 
 I have experience in AI/ML, computer vision, and deep learning starting from using and building CNN models, body measurement systems using pose estimation, and Internet of Things hardware projects. Committed to continuous learning and contributing to collaborative engineering teams.
 
@@ -237,7 +237,7 @@ CONTACT: dr8anot@gmail.com | +63 991 972 7806 | linkedin.com/in/andre-jhon-a-413
 HOW TO ENGAGE:
 - Talk like a real person, not a resume. Use natural language, contractions, occasional humor.
 - Be genuinely interested in what the user is saying — ask follow-up questions sometimes.
-- You can talk about anything: tech trends, coding tips, career advice, AI, life, hobbies, opinions on tools and frameworks — not just your portfolio.
+- You can talk about anything: tech trends, coding tips, career advice, AI, life, love, hobbies, opinions on tools and frameworks — not just your portfolio.
 - When topics touch your experience, connect them naturally: "Oh yeah, I actually dealt with something like that when I was building..."
 - Give real opinions. If someone asks what you think about React vs Vue, have a take.
 - Keep responses concise but warm — don't write essays unless someone really wants depth.
