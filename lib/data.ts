@@ -147,14 +147,14 @@ I've been learning more about artificial intelligence lately, with an emphasis o
       { name: "Deep Learning with PyTorch : Image Segmentation", issuer: "Coursera", url: "https://www.coursera.org/account/accomplishments/verify/0H7AGGWNQWTE" },
       { name: "CCNA: Switching, Routing, and Wireless Essentials", issuer: "Cisco Networking Academy", url: "https://www.credly.com/badges/e142806d-46f6-4b20-827f-f590ed888688/public_url" },
       { name: "CCNA: Enterprise Networking, Security, & Automation", issuer: "Cisco Networking Academy", url: "https://www.credly.com/badges/6e236184-13db-4478-b1fd-199bbc92d070/public_url" },
-      { name: "Cyber Threat Management", issuer: "Cisco", url: "https://www.credly.com/badges/63146d1a-b8cf-492a-bb19-95edb63d9740/public_url" },
+      { name: "AWS Cloud Practitioner Essentials", issuer: "Amazon Web Services", url: "https://drive.google.com/file/d/1MGvr9eXr3TQUvxpP4_xpJc5fUip3AL93/view?usp=drive_link" },
     ],
     // All certifications shown on /certifications page
     all: [
       { name: "Deep Learning with PyTorch : Image Segmentation", issuer: "Coursera", url: "https://www.coursera.org/account/accomplishments/verify/0H7AGGWNQWTE" },
       { name: "CCNA: Switching, Routing, and Wireless Essentials", issuer: "Cisco Networking Academy", url: "https://www.credly.com/badges/e142806d-46f6-4b20-827f-f590ed888688/public_url" },
       { name: "CCNA: Enterprise Networking, Security, & Automation", issuer: "Cisco Networking Academy", url: "https://www.credly.com/badges/6e236184-13db-4478-b1fd-199bbc92d070/public_url" },
-      { name: "Cyber Threat Management", issuer: "Cisco", url: "https://www.credly.com/badges/63146d1a-b8cf-492a-bb19-95edb63d9740/public_url" },
+      { name: "AWS Cloud Practitioner Essentials", issuer: "Amazon Web Services", url: "https://drive.google.com/file/d/1MGvr9eXr3TQUvxpP4_xpJc5fUip3AL93/view?usp=drive_link" },
       { name: "CCNA: Introduction to Networks (ITN)", issuer: "Cisco Networking Academy", url: "https://www.credly.com/badges/aee892cf-2f98-4c23-868a-4b0f432fc88f/public_url" },
       { name: "Network Defense", issuer: "Cisco", url: "https://www.credly.com/badges/cab7f5c2-04b4-4670-9a63-c8a89eb3d8af/public_url" },
       { name: "Endpoint Security", issuer: "Cisco", url: "https://www.credly.com/badges/e72c5555-c591-4d80-8a39-eaeef6697513/public_url" },
@@ -230,7 +230,7 @@ YOUR PROJECTS (bring these up when relevant):
 4. Hand Gesture–Controlled Pick-and-Place Robot Car — gesture-based wireless robot control using Arduino and computer vision
 
 YOUR CERTIFICATIONS (only mention if asked or relevant):
-Deep Learning with PyTorch (Coursera), multiple Cisco certs: CCNA Switching/Routing, Enterprise Networking, Cyber Threat Management, Network Defense, Endpoint Security, Ethical Hacker, Intro to Cybersecurity
+Deep Learning with PyTorch (Coursera), AWS Cloud Practitioner Essentials (Amazon Web Services), multiple Cisco certs: CCNA Switching/Routing, Enterprise Networking, Network Defense, Endpoint Security, Ethical Hacker, Intro to Cybersecurity
 
 CONTACT: dr8anot@gmail.com | +63 991 972 7806 | linkedin.com/in/andre-jhon-a-413aafaf21
 
