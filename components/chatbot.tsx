@@ -34,6 +34,7 @@ export function Chatbot() {
   ]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
+  const [aiStatus, setAiStatus] = useState<"online" | "offline">("online");
   const bottomRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -58,8 +59,15 @@ export function Chatbot() {
         body: JSON.stringify({ messages: next }),
       });
       const data = await res.json();
-      setMessages([...next, { role: "assistant", content: data.error || data.message || "Sorry, I'm having trouble connecting right now. Please try again later." }]);
+      if (data.error) {
+        setAiStatus("offline");
+        setMessages([...next, { role: "assistant", content: data.error }]);
+      } else {
+        setAiStatus("online");
+        setMessages([...next, { role: "assistant", content: data.message || "Sorry, I'm having trouble connecting right now. Please try again later." }]);
+      }
     } catch {
+      setAiStatus("offline");
       setMessages([...next, { role: "assistant", content: "Sorry, I couldn't connect. Please try again." }]);
     } finally {
       setLoading(false);
@@ -79,8 +87,11 @@ export function Chatbot() {
               <div>
                 <p className="text-sm font-semibold">Chat with Andre</p>
                 <p className="text-xs text-foreground/70 flex items-center gap-1.5">
-                  <span className="w-1.5 h-1.5 bg-green-500 rounded-full inline-block" />
-                  Online
+                  <span className={cn(
+                    "w-1.5 h-1.5 rounded-full inline-block transition-colors duration-500",
+                    aiStatus === "online" ? "bg-green-500" : "bg-gray-400"
+                  )} />
+                  {aiStatus === "online" ? "Online" : "Offline"}
                 </p>
               </div>
             </div>

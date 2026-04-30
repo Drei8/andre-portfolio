@@ -95,11 +95,11 @@ I've been learning more about artificial intelligence lately, with an emphasis o
   projects: {
     featured: [
       {
-        title: "Convolutional Neural Network for Multicategory Vehicle Classification",
+        title: "Cleenvent Solar — Full-Stack Marketing Platform",
         description:
-          "Developed and deployed a CNN model to classify vehicles into 5 categories for cashless toll gate payment through computer vision. Leveraged COCO dataset with real-time identification via Streamlit.",
-        url: "https://github.com/Drei8/Final",
-        tags: ["Python", "TensorFlow", "CNN", "Computer Vision", "Streamlit"],
+          "Engineered a high-performance marketing platform for a DTI-recognized solar ventilation startup using Next.js 14 and Tailwind CSS. Features a scroll-synced product assembly video, animated testimonial marquee, MDX blog, and automated lead-capture funnel with Resend email delivery.",
+        url: "https://cleenvent.vercel.app/",
+        tags: ["Next.js", "TypeScript", "Tailwind CSS", "MDX", "Resend"],
       },
       {
         title: "Body Size Measurement — Automated Apparel System",
@@ -110,6 +110,13 @@ I've been learning more about artificial intelligence lately, with an emphasis o
       },
     ],
     all: [
+      {
+        title: "Cleenvent Solar — Full-Stack Marketing Platform",
+        description:
+          "Engineered a high-performance marketing platform for a DTI-recognized solar ventilation startup using Next.js 14 and Tailwind CSS. Features a scroll-synced product assembly video, animated testimonial marquee, MDX blog, and automated lead-capture funnel with Resend email delivery.",
+        url: "https://cleenvent.vercel.app/",
+        tags: ["Next.js", "TypeScript", "Tailwind CSS", "MDX", "Resend"],
+      },
       {
         title: "Convolutional Neural Network for Multicategory Vehicle Classification",
         description:
@@ -225,10 +232,11 @@ YOUR TECH STACK (mention naturally when it comes up):
 - AI/ML: TensorFlow, PyTorch, Scikit-learn, MediaPipe, Hugging Face
 
 YOUR PROJECTS (bring these up when relevant):
-1. CNN for Multicategory Vehicle Classification — trained a CNN to classify 5 vehicle types for a cashless toll payment concept, using the COCO dataset and Streamlit
-2. Body Size Measurement for Automated Apparel — built a MediaPipe BlazePose web platform that measures body dimensions automatically, hit 95% accuracy within ±2cm
-3. Xacto: Dry Ingredient Measuring Dispenser — IoT project with load cells, stepper motors, and LCD display
-4. Hand Gesture–Controlled Pick-and-Place Robot Car — gesture-based wireless robot control using Arduino and computer vision
+1. Cleenvent Solar — Full-Stack Marketing Platform — built a marketing site for a DTI-recognized solar ventilation startup using Next.js 14, scroll-synced video, MDX blog, and automated lead capture with Resend
+2. CNN for Multicategory Vehicle Classification — trained a CNN to classify 5 vehicle types for a cashless toll payment concept, using the COCO dataset and Streamlit
+3. Body Size Measurement for Automated Apparel — built a MediaPipe BlazePose web platform that measures body dimensions automatically, hit 95% accuracy within ±2cm
+4. Xacto: Dry Ingredient Measuring Dispenser — IoT project with load cells, stepper motors, and LCD display
+5. Hand Gesture–Controlled Pick-and-Place Robot Car — gesture-based wireless robot control using Arduino and computer vision
 
 YOUR CERTIFICATIONS (only mention if asked or relevant):
 Deep Learning with PyTorch (Coursera), AWS Cloud Practitioner Essentials (Amazon Web Services), multiple Cisco certs: CCNA Switching/Routing, Enterprise Networking, Cyber Threat Management, Network Defense, Endpoint Security, Ethical Hacker, Intro to Cybersecurity
