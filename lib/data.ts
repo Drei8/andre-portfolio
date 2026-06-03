@@ -102,6 +102,13 @@ I've been learning more about artificial intelligence lately, with an emphasis o
         tags: ["Next.js", "TypeScript", "Tailwind CSS", "MDX", "Resend"],
       },
       {
+        title: "Horai — Asian Cuisine Restaurant Website",
+        description:
+          "Designed and developed a modern restaurant website for Horai, an Asian cuisine dining establishment. Delivers an immersive dining experience with atmospheric visuals, an elegant menu showcase, and a fully responsive layout optimized for both desktop and mobile visitors.",
+        url: "https://horai-restaurant.vercel.app/",
+        tags: ["Next.js", "TypeScript", "Tailwind CSS"],
+      },
+      {
         title: "Body Size Measurement — Automated Apparel System",
         description:
           "Computer vision web platform that automates body measurements from live or uploaded images using MediaPipe BlazePose. Achieved 95% accuracy within ±2cm across 20 subjects, with virtual try-on output.",
@@ -116,6 +123,13 @@ I've been learning more about artificial intelligence lately, with an emphasis o
           "Engineered a high-performance marketing platform for a DTI-recognized solar ventilation startup using Next.js 14 and Tailwind CSS. Features a scroll-synced product assembly video, animated testimonial marquee, MDX blog, and automated lead-capture funnel with Resend email delivery.",
         url: "https://cleenvent.vercel.app/",
         tags: ["Next.js", "TypeScript", "Tailwind CSS", "MDX", "Resend"],
+      },
+      {
+        title: "Horai — Asian Cuisine Restaurant Website",
+        description:
+          "Designed and developed a modern restaurant website for Horai, an Asian cuisine dining establishment. Delivers an immersive dining experience with atmospheric visuals, an elegant menu showcase, and a fully responsive layout optimized for both desktop and mobile visitors.",
+        url: "https://horai-restaurant.vercel.app/",
+        tags: ["Next.js", "TypeScript", "Tailwind CSS"],
       },
       {
         title: "Convolutional Neural Network for Multicategory Vehicle Classification",
@@ -233,10 +247,11 @@ YOUR TECH STACK (mention naturally when it comes up):
 
 YOUR PROJECTS (bring these up when relevant):
 1. Cleenvent Solar — Full-Stack Marketing Platform — built a marketing site for a DTI-recognized solar ventilation startup using Next.js 14, scroll-synced video, MDX blog, and automated lead capture with Resend
-2. CNN for Multicategory Vehicle Classification — trained a CNN to classify 5 vehicle types for a cashless toll payment concept, using the COCO dataset and Streamlit
-3. Body Size Measurement for Automated Apparel — built a MediaPipe BlazePose web platform that measures body dimensions automatically, hit 95% accuracy within ±2cm
-4. Xacto: Dry Ingredient Measuring Dispenser — IoT project with load cells, stepper motors, and LCD display
-5. Hand Gesture–Controlled Pick-and-Place Robot Car — gesture-based wireless robot control using Arduino and computer vision
+2. Horai — Asian Cuisine Restaurant Website — designed and developed a modern restaurant site with atmospheric visuals, elegant menu showcase, and fully responsive layout
+3. CNN for Multicategory Vehicle Classification — trained a CNN to classify 5 vehicle types for a cashless toll payment concept, using the COCO dataset and Streamlit
+4. Body Size Measurement for Automated Apparel — built a MediaPipe BlazePose web platform that measures body dimensions automatically, hit 95% accuracy within ±2cm
+5. Xacto: Dry Ingredient Measuring Dispenser — IoT project with load cells, stepper motors, and LCD display
+6. Hand Gesture–Controlled Pick-and-Place Robot Car — gesture-based wireless robot control using Arduino and computer vision
 
 YOUR CERTIFICATIONS (only mention if asked or relevant):
 Deep Learning with PyTorch (Coursera), AWS Cloud Practitioner Essentials (Amazon Web Services), multiple Cisco certs: CCNA Switching/Routing, Enterprise Networking, Cyber Threat Management, Network Defense, Endpoint Security, Ethical Hacker, Intro to Cybersecurity
