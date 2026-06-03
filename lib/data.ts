@@ -108,13 +108,6 @@ I've been learning more about artificial intelligence lately, with an emphasis o
         url: "https://horai-restaurant.vercel.app/",
         tags: ["Next.js", "TypeScript", "Tailwind CSS"],
       },
-      {
-        title: "Body Size Measurement — Automated Apparel System",
-        description:
-          "Computer vision web platform that automates body measurements from live or uploaded images using MediaPipe BlazePose. Achieved 95% accuracy within ±2cm across 20 subjects, with virtual try-on output.",
-        url: "https://app.slidespeak.co/presentation/cmnevkzdy003b08mlp7jctqio/share",
-        tags: ["Python", "MediaPipe", "TensorFlow", "Flask", "Deep Learning"],
-      },
     ],
     all: [
       {
