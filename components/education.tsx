@@ -4,8 +4,8 @@ import { cn } from "@/lib/utils";
 
 export function Education() {
   return (
-    <div className="transition-transform duration-200 hover:-translate-y-0.5">
-      <Card className="animate-fade-in [animation-delay:200ms] opacity-0">
+    <div className="transition-transform duration-200 hover:-translate-y-0.5 h-full">
+      <Card className="animate-fade-in [animation-delay:200ms] opacity-0 h-full">
         <CardHeader>
           <CardTitle>Education</CardTitle>
         </CardHeader>

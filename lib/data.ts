@@ -104,7 +104,7 @@ I've been learning more about artificial intelligence lately, with an emphasis o
       {
         title: "Horai — Asian Cuisine Restaurant Website",
         description:
-          "Designed and developed a modern restaurant website for Horai, an Asian cuisine dining establishment. Delivers an immersive dining experience with atmospheric visuals, an elegant menu showcase, and a fully responsive layout optimized for both desktop and mobile visitors.",
+          "Designed and developed a modern restaurant website for Horai, an Asian cuisine dining establishment. Delivers an immersive dining experience with atmospheric visuals, an elegant menu showcase, and a fully responsive desktop website.",
         url: "https://horai-restaurant.vercel.app/",
         tags: ["Next.js", "TypeScript", "Tailwind CSS"],
       },
@@ -120,7 +120,7 @@ I've been learning more about artificial intelligence lately, with an emphasis o
       {
         title: "Horai — Asian Cuisine Restaurant Website",
         description:
-          "Designed and developed a modern restaurant website for Horai, an Asian cuisine dining establishment. Delivers an immersive dining experience with atmospheric visuals, an elegant menu showcase, and a fully responsive layout optimized for both desktop and mobile visitors.",
+          "Designed and developed a modern restaurant website for Horai, an Asian cuisine dining establishment. Delivers an immersive dining experience with atmospheric visuals, an elegant menu showcase, and a fully responsive desktop website.",
         url: "https://horai-restaurant.vercel.app/",
         tags: ["Next.js", "TypeScript", "Tailwind CSS"],
       },

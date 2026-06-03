@@ -4,7 +4,7 @@ import { portfolioData } from "@/lib/data";
 
 export function Projects() {
   return (
-    <Card className="animate-fade-in [animation-delay:250ms] opacity-0">
+    <Card className="animate-fade-in [animation-delay:250ms] opacity-0 h-full">
       <div className="px-4 pt-4 pb-2 flex items-center justify-between">
         <h3 className="text-lg font-bold text-foreground">Recent Projects</h3>
         <Link

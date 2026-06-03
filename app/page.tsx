@@ -41,12 +41,12 @@ export default function Home() {
           </div>
 
           {/* Projects — 2 cols */}
-          <div className="md:col-span-2">
+          <div className="md:col-span-2 h-full">
             <Projects />
           </div>
 
           {/* Education — 1 col */}
-          <div>
+          <div className="h-full">
             <Education />
           </div>
 
